@@ -1,0 +1,6 @@
+{
+  "name": "AuraPharm Mobile Pharmacy & Care",
+  "description": "A clean, modern healthcare and pharmacy web app inspired by iOS wellness design for browsing medication inventory, monitoring vitals, and tracking daily prescriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
